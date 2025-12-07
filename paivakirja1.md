@@ -24,7 +24,7 @@ Haastavinta oli ehkä saada oppimispäiväkirja käyntiin. Kloonaaminen ja haara
 | git reset | Poistaa tiedoston Git-hallinnasta. |
 | git restore | Palauttaa Git-hallinnassa olevan tiedoston viimeisimpään versionhallinnan versioon. |
 | git revert | Kumoaa valitun versionhallintatallenteen tallenteen. |
-| git branch | Luo uuden kehityshaaran. |
+| git branch | Näyttää kehityshaarat tai luo uuden kehityshaaran (git branch haaran nimi). |
 | git merge | Yhdistää kehityshaaran toiseen. |
 | git remote | Näyttää etärepositorioiden nimet ja URL-osoitteet. set-url -parametrillä muuttaa etärepositorion URL-osoitteen. |
 | git push | Vie versionhallintaan tallennetun version etärepositorioon. |
